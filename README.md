@@ -6,7 +6,7 @@
 🤓 Trying to work on Database Pipeline & Database Management! <br/>
 🧐 Curious of Polish Language & Culture! 🥟 🇵🇱<br/>
 
-# Arda's_Tech_World 🌎 💻 <br/>
+# Tech_Tools 🌎 💻 <br/>
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white) <br/>
@@ -16,5 +16,5 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-# Arda's_Statistics 📊 <br/>
+# Stats 📊 <br/>
 ![Arda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardayucell&show_icons=true&theme=radical)
